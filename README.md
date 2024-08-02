@@ -1,8 +1,8 @@
-Task1-Online Examination System:
+Project1-Online Examination System:
 This Java console application is a simple Online Examination System that allows users to register, log in, and participate in multiple-choice quizzes. The program features user authentication, profile management, quiz participation, and a scoring system.
 Features:User Registration and Login,Profile Management,Quiz Participation,Users can participate in multiple-choice quizzes,Scoring and Feedback,Session Management
 
-Task2-Guess the Number:
+Project2-Guess the Number:
 Features:
 Random Number Generation: The computer generates a random number between 1 and 100 at the start of each game
 User Input: Players can enter their guesses and receive instant feedback on whether the guess is too high, too low, or correct.
